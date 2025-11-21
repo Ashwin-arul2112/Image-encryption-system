@@ -1,4 +1,4 @@
-# 🖼️ Image Encryption GUI - Secure & Smart
+# Image Encryption GUI - Secure & Smart
 
 A modern GUI application to **encrypt and decrypt images** with AES-based encryption. Built with **Python**, **ttkbootstrap**, and **Tkinter**.
 
@@ -6,14 +6,14 @@ A modern GUI application to **encrypt and decrypt images** with AES-based encryp
 
 ## Features
 
-- 🔐 AES-based image encryption & decryption
-- 🌗 Dark/Light theme toggle
-- ⚡ Progress meter with smooth updates
-- 🖼️ Image preview before encryption/decryption
-- 📂 Browse or drag & drop support (future enhancement)
-- 🔑 Password input with show/hide option
-- 📋 Clipboard copy of output file path
-- ✅ Error handling and status messages
+-  AES-based image encryption & decryption
+-  Dark/Light theme toggle
+-  Progress meter with smooth updates
+-  Image preview before encryption/decryption
+-  Browse or drag & drop support (future enhancement)
+-  Password input with show/hide option
+-  Clipboard copy of output file path
+-  Error handling and status messages
 
 ---
 
